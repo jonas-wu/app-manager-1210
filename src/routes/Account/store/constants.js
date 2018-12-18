@@ -1,0 +1,1 @@
+export const ACCOUNTLIST = 'account/ACCOUNTLIST'

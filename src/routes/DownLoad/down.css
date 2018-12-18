@@ -1,0 +1,20 @@
+
+.bodyo {
+  text-align: center;
+  margin-top: 5%;
+}
+
+.img{
+
+  width: '60px';
+  height: '60px';
+  border-radius: '10px';
+  vertical-align: middle;
+}
+
+.liebiao{
+
+  display:inline-block;
+  margin-left: 30px;
+
+}

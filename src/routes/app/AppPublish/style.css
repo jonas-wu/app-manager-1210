@@ -1,0 +1,17 @@
+.drop-wrapper {
+  width: 970px;
+  margin: 60px auto;
+  text-align: center;
+  border: 1px dashed #ccc;
+  padding: 100px;
+  background-color: white;
+  cursor: pointer;
+}
+
+.drop-wrapper-disabled {
+  cursor: default;
+}
+
+.drop-wrapper-dragover {
+  background-color: #56bc94;
+}

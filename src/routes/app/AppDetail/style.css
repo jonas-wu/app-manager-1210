@@ -1,0 +1,8 @@
+.version-desc-input:focus {
+  border-color: red;
+  box-shadow: 0 0 6px red;
+}
+
+.version-desc-input:hover {
+  border-color: red;
+}
